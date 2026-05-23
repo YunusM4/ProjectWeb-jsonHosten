@@ -1,0 +1,192 @@
+[
+  {
+    "id": "DRV-001",
+    "name": "Max Verstappen",
+    "biography": "Een extreem getalenteerde en agressieve coureur die bekend staat om zijn meedogenloze inhaalacties en ongeëvenaarde wagenbeheersing. Hij verbreekt record na record in de moderne F1.",
+    "carNumber": 1,
+    "isActive": true,
+    "birthDate": "1997-09-30",
+    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/max-verstappen.png",
+    "driverStatus": "World Champion",
+    "favoriteTracks": ["Spa-Francorchamps", "Zandvoort", "Suzuka"],
+    "currentTeam": {
+      "id": "TEAM-001",
+      "name": "Red Bull Racing",
+      "foundedYear": 2005,
+      "isFactoryTeam": false,
+      "baseLocation": "Milton Keynes, Verenigd Koninkrijk",
+      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/redbull-logo.png"
+    }
+  },
+  {
+    "id": "DRV-002",
+    "name": "Lewis Hamilton",
+    "biography": "Een van de meest succesvolle coureurs in de geschiedenis van de Formule 1. Bekend om zijn consistentie, bandenmanagement en ongelooflijke prestaties in de regen.",
+    "carNumber": 44,
+    "isActive": true,
+    "birthDate": "1985-01-07",
+    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/lewis-hamilton.png",
+    "driverStatus": "World Champion",
+    "favoriteTracks": ["Silverstone", "Interlagos", "Montreal"],
+    "currentTeam": {
+      "id": "TEAM-004",
+      "name": "Mercedes-AMG Petronas",
+      "foundedYear": 2010,
+      "isFactoryTeam": true,
+      "baseLocation": "Brackley, Verenigd Koninkrijk",
+      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/mercedes-logo.png"
+    }
+  },
+  {
+    "id": "DRV-003",
+    "name": "Charles Leclerc",
+    "biography": "De Monegaskische ster van Ferrari, geprezen om zijn bloedsnelle kwalificatierondes en pure rauwe snelheid over één ronde.",
+    "carNumber": 16,
+    "isActive": true,
+    "birthDate": "1997-10-16",
+    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/charles-leclerc.png",
+    "driverStatus": "Race Winner",
+    "favoriteTracks": ["Monaco", "Monza", "Baku"],
+    "currentTeam": {
+      "id": "TEAM-002",
+      "name": "Scuderia Ferrari",
+      "foundedYear": 1950,
+      "isFactoryTeam": true,
+      "baseLocation": "Maranello, Italië",
+      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/ferrari-logo.png"
+    }
+  },
+  {
+    "id": "DRV-004",
+    "name": "Lando Norris",
+    "biography": "Een zeer populaire en getalenteerde Britse coureur die McLaren terug naar de top heeft geholpen. Heeft een vloeiende en constante rijstijl.",
+    "carNumber": 4,
+    "isActive": true,
+    "birthDate": "1999-11-13",
+    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/lando-norris.png",
+    "driverStatus": "Race Winner",
+    "favoriteTracks": ["Silverstone", "Red Bull Ring", "Singapore"],
+    "currentTeam": {
+      "id": "TEAM-003",
+      "name": "McLaren F1 Team",
+      "foundedYear": 1966,
+      "isFactoryTeam": false,
+      "baseLocation": "Woking, Verenigd Koninkrijk",
+      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/mclaren-logo.png"
+    }
+  },
+  {
+    "id": "DRV-005",
+    "name": "Sergio Pérez",
+    "biography": "De Mexicaanse 'Minister of Defence'. Bekend om zijn uitmuntende bandenmanagement en sterke inhaalraces op stratencircuits.",
+    "carNumber": 11,
+    "isActive": true,
+    "birthDate": "1990-01-26",
+    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/sergio-perez.png",
+    "driverStatus": "Race Winner",
+    "favoriteTracks": ["Baku", "Monaco", "Jeddah"],
+    "currentTeam": {
+      "id": "TEAM-001",
+      "name": "Red Bull Racing",
+      "foundedYear": 2005,
+      "isFactoryTeam": false,
+      "baseLocation": "Milton Keynes, Verenigd Koninkrijk",
+      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/redbull-logo.png"
+    }
+  },
+  {
+    "id": "DRV-006",
+    "name": "Carlos Sainz",
+    "biography": "Een zeer intelligente, strategische coureur die vaak zijn eigen race-strategieën weet te optimaliseren. Zeer betrouwbaar in de punten.",
+    "carNumber": 55,
+    "isActive": true,
+    "birthDate": "1994-09-01",
+    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/carlos-sainz.png",
+    "driverStatus": "Race Winner",
+    "favoriteTracks": ["Marina Bay", "Silverstone", "Melbourne"],
+    "currentTeam": {
+      "id": "TEAM-002",
+      "name": "Scuderia Ferrari",
+      "foundedYear": 1950,
+      "isFactoryTeam": true,
+      "baseLocation": "Maranello, Italië",
+      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/ferrari-logo.png"
+    }
+  },
+  {
+    "id": "DRV-007",
+    "name": "George Russell",
+    "biography": "Met de bijnaam 'Mr. Consistency' is Russell een technische coureur die het maximale uit zijn materiaal weet te halen. Een sterke kwalificeerder.",
+    "carNumber": 63,
+    "isActive": true,
+    "birthDate": "1998-02-15",
+    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/george-russell.png",
+    "driverStatus": "Race Winner",
+    "favoriteTracks": ["Interlagos", "Spa-Francorchamps", "Sakhir"],
+    "currentTeam": {
+      "id": "TEAM-004",
+      "name": "Mercedes-AMG Petronas",
+      "foundedYear": 2010,
+      "isFactoryTeam": true,
+      "baseLocation": "Brackley, Verenigd Koninkrijk",
+      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/mercedes-logo.png"
+    }
+  },
+  {
+    "id": "DRV-008",
+    "name": "Oscar Piastri",
+    "biography": "Een koelbloedige jonge coureur die in zijn eerste seizoenen direct indruk maakte met een kalme en volwassen aanpak op de baan.",
+    "carNumber": 81,
+    "isActive": true,
+    "birthDate": "2001-04-06",
+    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/oscar-piastri.png",
+    "driverStatus": "Race Winner",
+    "favoriteTracks": ["Losail", "Spa-Francorchamps", "Suzuka"],
+    "currentTeam": {
+      "id": "TEAM-003",
+      "name": "McLaren F1 Team",
+      "foundedYear": 1966,
+      "isFactoryTeam": false,
+      "baseLocation": "Woking, Verenigd Koninkrijk",
+      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/mclaren-logo.png"
+    }
+  },
+  {
+    "id": "DRV-009",
+    "name": "Oliver Bearman",
+    "biography": "Een jong talent uit de Ferrari Driver Academy. Maakte een spectaculair debuut als invaller en heeft veel potentie voor de toekomst.",
+    "carNumber": 38,
+    "isActive": true,
+    "birthDate": "2005-05-08",
+    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/ollie-bearman.png",
+    "driverStatus": "Rookie",
+    "favoriteTracks": ["Jeddah", "Baku", "Monza"],
+    "currentTeam": {
+      "id": "TEAM-002",
+      "name": "Scuderia Ferrari",
+      "foundedYear": 1950,
+      "isFactoryTeam": true,
+      "baseLocation": "Maranello, Italië",
+      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/ferrari-logo.png"
+    }
+  },
+  {
+    "id": "DRV-010",
+    "name": "Liam Lawson",
+    "biography": "De pijlsnelle Nieuw-Zeelander heeft bewezen direct op niveau te kunnen presteren in de koningsklasse en is een waardevolle troef voor de Red Bull familie.",
+    "carNumber": 40,
+    "isActive": false,
+    "birthDate": "2002-02-11",
+    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/liam-lawson.png",
+    "driverStatus": "Podium Finisher",
+    "favoriteTracks": ["Suzuka", "Zandvoort", "Singapore"],
+    "currentTeam": {
+      "id": "TEAM-001",
+      "name": "Red Bull Racing",
+      "foundedYear": 2005,
+      "isFactoryTeam": false,
+      "baseLocation": "Milton Keynes, Verenigd Koninkrijk",
+      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/redbull-logo.png"
+    }
+  }
+]

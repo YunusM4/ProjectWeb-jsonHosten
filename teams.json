@@ -1,0 +1,34 @@
+[
+  {
+    "id": "TEAM-001",
+    "name": "Red Bull Racing",
+    "foundedYear": 2005,
+    "isFactoryTeam": false,
+    "baseLocation": "Milton Keynes, Verenigd Koninkrijk",
+    "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/redbull-logo.png"
+  },
+  {
+    "id": "TEAM-002",
+    "name": "Scuderia Ferrari",
+    "foundedYear": 1950,
+    "isFactoryTeam": true,
+    "baseLocation": "Maranello, Italië",
+    "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/ferrari-logo.png"
+  },
+  {
+    "id": "TEAM-003",
+    "name": "McLaren F1 Team",
+    "foundedYear": 1966,
+    "isFactoryTeam": false,
+    "baseLocation": "Woking, Verenigd Koninkrijk",
+    "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/mclaren-logo.png"
+  },
+  {
+    "id": "TEAM-004",
+    "name": "Mercedes-AMG Petronas",
+    "foundedYear": 2010,
+    "isFactoryTeam": true,
+    "baseLocation": "Brackley, Verenigd Koninkrijk",
+    "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/mercedes-logo.png"
+  }
+]
