@@ -5,7 +5,7 @@
     "foundedYear": 2005,
     "isFactoryTeam": false,
     "baseLocation": "Milton Keynes, Verenigd Koninkrijk",
-    "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/redbull-logo.png"
+    "logoUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/teams/TeamRedbull.png"
   },
   {
     "id": "TEAM-002",
@@ -13,7 +13,7 @@
     "foundedYear": 1950,
     "isFactoryTeam": true,
     "baseLocation": "Maranello, Italië",
-    "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/ferrari-logo.png"
+    "logoUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/teams/TeamFerrari.png"
   },
   {
     "id": "TEAM-003",
@@ -21,7 +21,7 @@
     "foundedYear": 1966,
     "isFactoryTeam": false,
     "baseLocation": "Woking, Verenigd Koninkrijk",
-    "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/mclaren-logo.png"
+    "logoUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/teams/TeamMcLaren.png"
   },
   {
     "id": "TEAM-004",
@@ -29,6 +29,6 @@
     "foundedYear": 2010,
     "isFactoryTeam": true,
     "baseLocation": "Brackley, Verenigd Koninkrijk",
-    "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/mercedes-logo.png"
+    "logoUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/teams/TeamMercedes.png"
   }
 ]

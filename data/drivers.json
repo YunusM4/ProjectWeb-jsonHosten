@@ -6,7 +6,7 @@
     "carNumber": 1,
     "isActive": true,
     "birthDate": "1997-09-30",
-    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/max-verstappen.png",
+    "profileImageUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/drivers/MaxVerstappen.jpg",
     "driverStatus": "World Champion",
     "favoriteTracks": ["Spa-Francorchamps", "Zandvoort", "Suzuka"],
     "currentTeam": {
@@ -15,7 +15,7 @@
       "foundedYear": 2005,
       "isFactoryTeam": false,
       "baseLocation": "Milton Keynes, Verenigd Koninkrijk",
-      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/redbull-logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/teams/TeamRedbull.png"
     }
   },
   {
@@ -25,7 +25,7 @@
     "carNumber": 44,
     "isActive": true,
     "birthDate": "1985-01-07",
-    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/lewis-hamilton.png",
+    "profileImageUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/drivers/LewisHamilton.jpg",
     "driverStatus": "World Champion",
     "favoriteTracks": ["Silverstone", "Interlagos", "Montreal"],
     "currentTeam": {
@@ -34,7 +34,7 @@
       "foundedYear": 2010,
       "isFactoryTeam": true,
       "baseLocation": "Brackley, Verenigd Koninkrijk",
-      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/mercedes-logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/teams/TeamMercedes.png"
     }
   },
   {
@@ -44,7 +44,7 @@
     "carNumber": 16,
     "isActive": true,
     "birthDate": "1997-10-16",
-    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/charles-leclerc.png",
+    "profileImageUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/drivers/CharlesLeclerc.jpg",
     "driverStatus": "Race Winner",
     "favoriteTracks": ["Monaco", "Monza", "Baku"],
     "currentTeam": {
@@ -53,7 +53,7 @@
       "foundedYear": 1950,
       "isFactoryTeam": true,
       "baseLocation": "Maranello, Italië",
-      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/ferrari-logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/teams/TeamFerrari.png"
     }
   },
   {
@@ -63,7 +63,7 @@
     "carNumber": 4,
     "isActive": true,
     "birthDate": "1999-11-13",
-    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/lando-norris.png",
+    "profileImageUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/drivers/LandoNorris.jpg",
     "driverStatus": "Race Winner",
     "favoriteTracks": ["Silverstone", "Red Bull Ring", "Singapore"],
     "currentTeam": {
@@ -72,7 +72,7 @@
       "foundedYear": 1966,
       "isFactoryTeam": false,
       "baseLocation": "Woking, Verenigd Koninkrijk",
-      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/mclaren-logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/teams/TeamMcLaren.png"
     }
   },
   {
@@ -82,7 +82,7 @@
     "carNumber": 11,
     "isActive": true,
     "birthDate": "1990-01-26",
-    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/sergio-perez.png",
+    "profileImageUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/drivers/SergioPérez.jpg",
     "driverStatus": "Race Winner",
     "favoriteTracks": ["Baku", "Monaco", "Jeddah"],
     "currentTeam": {
@@ -91,7 +91,7 @@
       "foundedYear": 2005,
       "isFactoryTeam": false,
       "baseLocation": "Milton Keynes, Verenigd Koninkrijk",
-      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/redbull-logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/teams/TeamRedbull.png"
     }
   },
   {
@@ -101,7 +101,7 @@
     "carNumber": 55,
     "isActive": true,
     "birthDate": "1994-09-01",
-    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/carlos-sainz.png",
+    "profileImageUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/drivers/CarlosSainz.jpg",
     "driverStatus": "Race Winner",
     "favoriteTracks": ["Marina Bay", "Silverstone", "Melbourne"],
     "currentTeam": {
@@ -110,7 +110,7 @@
       "foundedYear": 1950,
       "isFactoryTeam": true,
       "baseLocation": "Maranello, Italië",
-      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/ferrari-logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/teams/TeamFerrari.png"
     }
   },
   {
@@ -120,7 +120,7 @@
     "carNumber": 63,
     "isActive": true,
     "birthDate": "1998-02-15",
-    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/george-russell.png",
+    "profileImageUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/drivers/GeorgeRussell.jpg",
     "driverStatus": "Race Winner",
     "favoriteTracks": ["Interlagos", "Spa-Francorchamps", "Sakhir"],
     "currentTeam": {
@@ -129,7 +129,7 @@
       "foundedYear": 2010,
       "isFactoryTeam": true,
       "baseLocation": "Brackley, Verenigd Koninkrijk",
-      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/mercedes-logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/teams/TeamMercedes.png"
     }
   },
   {
@@ -139,7 +139,7 @@
     "carNumber": 81,
     "isActive": true,
     "birthDate": "2001-04-06",
-    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/oscar-piastri.png",
+    "profileImageUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/drivers/OscarPiastri.jpg",
     "driverStatus": "Race Winner",
     "favoriteTracks": ["Losail", "Spa-Francorchamps", "Suzuka"],
     "currentTeam": {
@@ -148,7 +148,7 @@
       "foundedYear": 1966,
       "isFactoryTeam": false,
       "baseLocation": "Woking, Verenigd Koninkrijk",
-      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/mclaren-logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/teams/TeamMcLaren.png"
     }
   },
   {
@@ -158,7 +158,7 @@
     "carNumber": 38,
     "isActive": true,
     "birthDate": "2005-05-08",
-    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/ollie-bearman.png",
+    "profileImageUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/drivers/OliverBearman.jpg",
     "driverStatus": "Rookie",
     "favoriteTracks": ["Jeddah", "Baku", "Monza"],
     "currentTeam": {
@@ -167,7 +167,7 @@
       "foundedYear": 1950,
       "isFactoryTeam": true,
       "baseLocation": "Maranello, Italië",
-      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/ferrari-logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/teams/TeamFerrari.png"
     }
   },
   {
@@ -177,7 +177,7 @@
     "carNumber": 40,
     "isActive": false,
     "birthDate": "2002-02-11",
-    "profileImageUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/liam-lawson.png",
+    "profileImageUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/drivers/Liam Lawson.png",
     "driverStatus": "Podium Finisher",
     "favoriteTracks": ["Suzuka", "Zandvoort", "Singapore"],
     "currentTeam": {
@@ -186,7 +186,7 @@
       "foundedYear": 2005,
       "isFactoryTeam": false,
       "baseLocation": "Milton Keynes, Verenigd Koninkrijk",
-      "logoUrl": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/JOUW_REPO/main/images/redbull-logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/YunusM4/ProjectWeb-jsonHosten/main/data/images/teams/TeamRedbull.png"
     }
   }
 ]
